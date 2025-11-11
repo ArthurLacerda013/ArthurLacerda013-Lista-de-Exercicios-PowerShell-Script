@@ -1,6 +1,6 @@
 # 🖥️ PowerShell – Lista de Exercícios para Suporte de TI
 
-Este repositório contém a **lista de exercícios em PowerShell** desenvolvida como parte da disciplina de **Suporte Técnico de TI**, ministrada pelo professor **Jussimar Leal** no **SENAI Santos Antonio Souza Noschese**.
+Este repositório contém a **lista de exercícios em PowerShell** desenvolvida como parte da disciplina de **Serviços de Rede**, ministrada pelo professor **Jussimar Leal** no **SENAI Santos Antonio Souza Noschese**.
 Os scripts abordam fundamentos e práticas aplicadas à rotina de **automação e administração de sistemas Windows**, incluindo cálculos, verificações de sistema, backup e monitoramento de desempenho.
 
 ---
